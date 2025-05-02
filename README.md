@@ -1,28 +1,72 @@
-<h1 align="center">Hi 👋, I'm MST NURY KHATUN</h1>
-<h3 align="center">Passionate about building beautiful mobile apps with Flutter and intuitive UI/UX designs. Currently expanding my skills with DevOps on Udemy.</h3>
+<h1 align="center">Hi 👋, I'm Mst Nury Khatun</h1>
+<h3 align="center">🚀 Flutter Developer | 🎨 UI/UX Enthusiast | ⚙️ DevOps Learner & Passionate</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiaafrinnury&label=Profile%20views&color=0e75b6&style=flat" alt="sadiaafrinnury" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadiaafrinnury" alt="sadiaafrinnury" /></a> </p>
-
-- 🌱 I’m currently learning **DEVOPS**
-
-- 👯 I’m looking to collaborate on **UI/UX**
-
-- 🤝 I’m looking for help with **FLUTTER**
-
-- 💬 Ask me about **sadia.nury@gmail.com**
-
-- 📫 How to reach me **sadia.nury@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sadiaafrinnury&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadiaafrinnury&show_icons=true&locale=en&layout=compact" alt="sadiaafrinnury" /></p>
+🌟 **About Me**  
+🔭 I’m currently working as a **Junior Programmer at Crystal Technology Bangladesh Ltd.**  
+🌱 I’m learning **DevOps** on **Udemy** and I’m deeply passionate about cloud automation, CI/CD pipelines, and infrastructure as code!  
+📱 I love building elegant mobile apps using **Flutter** & **Firebase**  
+💬 Ask me about **Flutter, Firebase, Dart, UI/UX Design, DevOps Basics**  
+📫 Reach me at **sadia.nury@gmail.com**  
+💡 Fun Fact: I enjoy solving real-world problems through beautiful UI and scalable architecture.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadiaafrinnury&show_icons=true&locale=en" alt="sadiaafrinnury" /></p>
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter" />
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" alt="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" alt="Photoshop" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="40" alt="Adobe XD" />
+</p>
+
+---
+
+### 📚 DevOps Learning Journey
+
+I'm currently enrolled in a **DevOps Bootcamp on Udemy**, where I'm exploring:
+
+- ✅ Linux fundamentals
+- ✅ Shell scripting
+- ✅ Docker & Containerization
+- ✅ CI/CD pipelines (Jenkins, GitHub Actions)
+- ✅ Kubernetes (basics coming soon!)
+- ✅ Monitoring and logging tools
+
+🔥 I'm super excited to combine **Flutter development** with **DevOps** skills to build, test, and deploy apps more efficiently!
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sadiaafrinnury&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaafrinnury&layout=compact&theme=radical" height="180"/>
+</div>
+
+---
+
+### 🔗 Connect with Me
+<p align="left">
+  <a href="sadia.nury@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mst-nury-khatun-73a580181/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sadiaafrinnury/sadiaafrinnury/output/snake.svg" alt="snake animation" />
+</p>
+
 
