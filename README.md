@@ -65,8 +65,4 @@ I'm currently enrolled in a **DevOps Bootcamp on Udemy**, where I'm exploring:
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sadiaafrinnury/sadiaafrinnury/output/snake.svg" alt="snake animation" />
-</p>
-
 
