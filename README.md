@@ -20,9 +20,13 @@
 ## 🌟 About Me
 
 🔭 Currently working as a **Junior UI/UX Designer** at **Crystal Technology Bangladesh Ltd.**
+<br/>
 🎨 My background blends UI/UX design with **Flutter/Dart development** — I design with implementation in mind.
+<br/>
 🧩 I love UX audits: heuristic evaluation, severity-coded issue tracking, and turning pain points into clean redesigns.
+<br/>
 💬 Ask me about **Figma, UI/UX Design, Design Systems, Flutter, Dart, Firebase**
+<br/>
 💡 Fun fact: I enjoy solving real-world problems through beautiful UI and thoughtful design systems.
 
 <br/>
