@@ -64,6 +64,6 @@ Apps I built end-to-end with Flutter & Dart — see pinned repos below for sourc
 <p align="left">
   <a href="mailto:sadia.nury@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mst-nury-khatun-73a580181/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://behance.net/gallery/249803905"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
+  <a href="https://www.behance.net/Sadianuryd2ea"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
   <a href="https://dribbble.com/sadianury"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
 </p>
