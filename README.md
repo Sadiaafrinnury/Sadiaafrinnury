@@ -44,15 +44,12 @@
 
 ## 🛠️ Languages & Tools
 
-**Design**
+<div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" alt="Photoshop" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-original.svg" width="40" alt="Adobe XD" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" width="40" alt="Illustrator" />
-
-**Development**
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
@@ -62,9 +59,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
 
-**AI Tools**
+</div>
 
-`Claude` `ChatGPT` `Figma AI` `Figma Make` `Lovable`
+<br/>
+
+**AI Tools:** `Claude` `ChatGPT` `Figma AI` `Figma Make` `Lovable`
 
 <br/>
 
@@ -79,12 +78,4 @@ Apps built end-to-end with Flutter & Dart — see pinned repos below for source 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sadiaafrinnury&show_icons=true&theme=radical" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaafrinnury&layout=compact&theme=radical" height="180"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-### Let's connect and build something great ✨
-
 </div>
