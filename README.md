@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mst Nury Khatun</h1>
-<h3 align="center">🎨 Product Designer | 💻 Flutter Developer Background</h3>
+<h3 align="center">🎨 Product Designer | UI/UX Designer | 💻 Flutter Developer Background</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sadiaafrinnury&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -41,7 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
 </p>
 
-**🤖 AI Tools:** Claude · ChatGPT · Figma AI
+**🤖 AI Tools:** Claude · ChatGPT · Figma AI · Figma Make · Lovable
 
 ---
 
@@ -67,4 +67,3 @@ Apps I built end-to-end with Flutter & Dart — see pinned repos below for sourc
   <a href="https://behance.net/gallery/249803905"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
   <a href="https://dribbble.com/sadianury"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
 </p>
-
